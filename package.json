@@ -1,0 +1,20 @@
+{
+  "name": "flat-object-compare",
+  "version": "1.0.0",
+  "main": "comparer.js",
+  "license": "MIT",
+  "description": "comparison (ordering) function for objects by specifying one or more fields, similar to SQL's ORDER BY clause",
+  "scripts": {
+    "test": "node .\\node_modules\\mocha\\bin\\mocha"
+  },
+  "keywords": [
+    "sort",
+    "compare",
+    "flat",
+    "multikey"
+  ],
+  "author": "KishKash",
+  "devDependencies": {
+    "mocha": "^3.5.1"
+  }
+}
